@@ -1,12 +1,12 @@
 body {
-  margin: 0;
   background-color: #0b2429;
+  margin: 0;
 }
 
 div {
-  margin: -100px;
-  width: 200px;
-  height: 200px;
-  transform: rotate(45deg);
   background: #f3ac3c;
+  height: 200px;
+  margin: -100px;
+  transform: rotate(45deg);
+  width: 200px;
 }
