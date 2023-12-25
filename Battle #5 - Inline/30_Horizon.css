@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  background: linear-gradient(
+    #f7ec7d 50px,
+    0,
+    #e38f66 100px,
+    0,
+    #aa445f 200px,
+    0,
+    #62306d
+  );
+}
