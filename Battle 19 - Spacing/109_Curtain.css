@@ -1,0 +1,14 @@
+body {
+  background: #191919;
+  padding: 12px;
+}
+
+div {
+  background: #f6e59c;
+  border-radius: 100%;
+  box-shadow: 60px 0, 120px 0, 180px 0, 0 60px, 60px 60px, 120px 60px, 0 120px,
+    60px 120px, 0 180px;
+  color: #f6e59c;
+  height: 40px;
+  width: 40px;
+}
